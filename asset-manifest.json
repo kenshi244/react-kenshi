@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/react-kenshi/static/css/main.4a2e2d9e.css",
+    "main.js": "/react-kenshi/static/js/main.44bd8e77.js",
+    "static/js/787.3bf0dcc2.chunk.js": "/react-kenshi/static/js/787.3bf0dcc2.chunk.js",
+    "static/media/profile_picture.jpg": "/react-kenshi/static/media/profile_picture.52ae75467a0205b51ef0.jpg",
+    "static/media/logo.svg": "/react-kenshi/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/react-kenshi/index.html",
+    "main.4a2e2d9e.css.map": "/react-kenshi/static/css/main.4a2e2d9e.css.map",
+    "main.44bd8e77.js.map": "/react-kenshi/static/js/main.44bd8e77.js.map",
+    "787.3bf0dcc2.chunk.js.map": "/react-kenshi/static/js/787.3bf0dcc2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4a2e2d9e.css",
+    "static/js/main.44bd8e77.js"
+  ]
+}
