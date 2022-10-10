@@ -1,0 +1,20 @@
+.Post {
+  background: rgba(255, 255, 255, 0.1);
+  border-radius: 10px;
+}
+
+.Post_avatar {
+  height: 60px;
+  width: 60px;
+  margin-right: 20px;
+  border-radius: 50%;
+  background-image: url(../../../../../profile_picture.jpg);
+  background-size: 100%;
+  background-position: center center;
+  background-repeat: no-repeat;
+}
+
+.Post_text {
+  text-align: justify;
+}
+/*# sourceMappingURL=Post.module.css.map */

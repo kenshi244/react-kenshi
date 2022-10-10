@@ -1,0 +1,73 @@
+h2 {
+  color: #f1f1f1;
+  font-weight: 200;
+}
+
+header {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.profile_background {
+  height: 250px;
+  background: url("https://i.redd.it/sq897dtfmn891.jpg");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: 100%;
+}
+
+.profile_img {
+  width: 200px;
+  height: 200px;
+  padding: 0;
+  margin: 0;
+  background: url("../../../profile_picture.jpg");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: 100%;
+}
+
+.profile_name_surname {
+  font-size: 25px;
+  font-weight: 700;
+}
+
+.profile_description_container {
+  padding: 0 20px;
+}
+
+.profile_description_item {
+  margin: 10px 0;
+}
+
+.profile_description_title {
+  font-size: 22px;
+  font-weight: 500;
+}
+
+.profile_description_detail {
+  font-size: 16px;
+  font-weight: 200;
+}
+
+.profile_description_detail a {
+  color: inherit;
+  text-decoration: none;
+  position: relative;
+}
+
+.profile_description_detail a:hover {
+  color: #61dafb;
+}
+
+.profile_description_detail a:hover::after {
+  content: "";
+  width: 100%;
+  height: 1px;
+  background: #61dafb;
+  display: block;
+  position: absolute;
+  bottom: -2px;
+}
+/*# sourceMappingURL=Profile.module.css.map */

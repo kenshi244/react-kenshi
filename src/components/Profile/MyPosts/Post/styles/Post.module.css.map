@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,KAAK,CAAC;EACF,UAAU,EAAE,wBAAuB;EACnC,aAAa,EAAE,IAAI;CAaS;;AAX3B,AAAD,YAAQ,CAAC;EACL,MAAM,EAAE,IAAI;EACZ,KAAK,EAAE,IAAI;EACX,YAAY,EAAE,IAAI;EAClB,aAAa,EAAE,GAAG;EAClB,gBAAgB,EAAE,uCAAuC;EACzD,eAAe,EAAE,IAAI;EACrB,mBAAmB,EAAE,aAAa;EAClC,iBAAiB,EAAE,SAAS;CAAG;;AAElC,AAAD,UAAM,CAAC;EACH,UAAU,EAAE,OAAO;CAAG",
+    "sources": [
+        "Post.module.sass"
+    ],
+    "names": [],
+    "file": "Post.module.css"
+}
