@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/react-kenshi/static/css/main.504bd54c.css",
-    "main.js": "/react-kenshi/static/js/main.f19ca9c5.js",
+    "main.css": "/react-kenshi/static/css/main.7499e593.css",
+    "main.js": "/react-kenshi/static/js/main.bd913636.js",
     "static/js/787.3bf0dcc2.chunk.js": "/react-kenshi/static/js/787.3bf0dcc2.chunk.js",
     "static/media/profile_picture.jpg": "/react-kenshi/static/media/profile_picture.52ae75467a0205b51ef0.jpg",
     "static/media/logo.svg": "/react-kenshi/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/react-kenshi/index.html",
-    "main.504bd54c.css.map": "/react-kenshi/static/css/main.504bd54c.css.map",
-    "main.f19ca9c5.js.map": "/react-kenshi/static/js/main.f19ca9c5.js.map",
+    "main.7499e593.css.map": "/react-kenshi/static/css/main.7499e593.css.map",
+    "main.bd913636.js.map": "/react-kenshi/static/js/main.bd913636.js.map",
     "787.3bf0dcc2.chunk.js.map": "/react-kenshi/static/js/787.3bf0dcc2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.504bd54c.css",
-    "static/js/main.f19ca9c5.js"
+    "static/css/main.7499e593.css",
+    "static/js/main.bd913636.js"
   ]
 }
